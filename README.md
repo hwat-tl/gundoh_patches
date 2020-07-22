@@ -1,6 +1,6 @@
 # Musashi Gundoh Patches
 
-hwat's releases for Musashi Gundoh use untouched raws from #168417, entirely softsubbed. On the off chance someone already has these and wants to save bandwidth, I've made xdelta patches based on those files. Any v2s and such will go here as well.
+hwat's releases for Musashi Gundoh use untouched raws from #168417, entirely softsubbed. On the off chance someone already has those raws and wants to save bandwidth, I've made xdelta patches based on those files. Any v2s and such will go here as well.
 
 ## How to use
 
