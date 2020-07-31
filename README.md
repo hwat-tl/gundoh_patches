@@ -9,3 +9,5 @@ hwat's releases for Musashi Gundoh use untouched raws from #168417, entirely sof
   3. Do this for the episodes you want to patch: ``xdelta3 -d gundoh[##].xdelta``
   
 I'm going to assume that if you want to go to all this trouble in the first place, you should know how to run things from command line.
+
+This should result in the creation of new files identical to what has been released by torrent.
